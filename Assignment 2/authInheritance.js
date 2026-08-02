@@ -1,6 +1,6 @@
 "use strict";
 
-// Assignment 5 – ES6 Classes, super(), Private Fields & Polymorphism
+// Task 2 – ES6 Classes, super(), Private Fields & Polymorphism
 
 // Parent Class
 
