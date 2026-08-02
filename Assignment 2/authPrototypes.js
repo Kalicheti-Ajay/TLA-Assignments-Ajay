@@ -1,6 +1,6 @@
 "use strict";
 
-// Assignment 4 – Prototypal Inheritance with Object.create()
+// Task 3 – Prototypal Inheritance with Object.create()
 
 
 const sessionHandler = {
