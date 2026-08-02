@@ -1,6 +1,6 @@
 "use strict";
 
-// Assignment 3 – Getters & Setters (Tricky)
+// Task 1 – Getters & Setters (Tricky)
 
 class Account {
     constructor(username) {
